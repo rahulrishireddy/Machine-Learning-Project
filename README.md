@@ -6,7 +6,7 @@ This is the link for the DATA SETS https://drive.google.com/drive/folders/14OjZ_
 Team Members
 Rahul Rishi Reddy Vasikarla-(N15548410)
 Sameer Marupeddi- (N14800152)
-
+anand inguva 
 
 
 our task here is to predict salaries which are continuous variables. This is a
